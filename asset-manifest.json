@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/newreact-web/static/css/main.9098935e.css",
+    "main.js": "/newreact-web/static/js/main.d79861bd.js",
+    "static/js/787.a8989e3a.chunk.js": "/newreact-web/static/js/787.a8989e3a.chunk.js",
+    "static/media/bg-hero.jpg": "/newreact-web/static/media/bg-hero.2e6d5a35d22cda1a0dd8.jpg",
+    "static/media/bg-works.jpg": "/newreact-web/static/media/bg-works.abd66d06d525eadfd24a.jpg",
+    "static/media/easy-customise.jpg": "/newreact-web/static/media/easy-customise.d4fe22138e1668906aab.jpg",
+    "static/media/great-support.jpg": "/newreact-web/static/media/great-support.13341f4e93333e45ebbe.jpg",
+    "static/media/advanced-option.jpg": "/newreact-web/static/media/advanced-option.84c7d0693123632c9035.jpg",
+    "static/media/modern-design.jpg": "/newreact-web/static/media/modern-design.e2114f5b8abbe8b1fa8b.jpg",
+    "static/media/clean-design.jpg": "/newreact-web/static/media/clean-design.728069dab437b67d9da8.jpg",
+    "static/media/unlimited-features.jpg": "/newreact-web/static/media/unlimited-features.a0b8acf77e6b57772078.jpg",
+    "index.html": "/newreact-web/index.html",
+    "main.9098935e.css.map": "/newreact-web/static/css/main.9098935e.css.map",
+    "main.d79861bd.js.map": "/newreact-web/static/js/main.d79861bd.js.map",
+    "787.a8989e3a.chunk.js.map": "/newreact-web/static/js/787.a8989e3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9098935e.css",
+    "static/js/main.d79861bd.js"
+  ]
+}
